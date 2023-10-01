@@ -13,24 +13,22 @@
       "name": "Genshin Impact 3.4",
       "bundleIdentifier": "com.miHoYo.GenshinImpact",
       "developerName": "Tiquismi",
-      "subtitle": "Genshin Impact 3.4",
       "localizedDescription": "Server lậu genshin Impact",
       "iconURL": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-raiden/sticker_3.png",
-      "tintColor": "#5CA399",
       "screenshotURLs": [
         "https://video-images.vice.com/articles/5fcfef08388a7b009d051550/lede/1607463036600-7.png",
         "https://video-images.vice.com/_uncategorized/1607463071541-2.png"
       ],
       "versions": [
         {
-          "version": "3.4.0",
+          "version": "3.4",
           "date": "2023-10-01T10:00:00-07:00",
           "size": 34000000,
           "downloadURL": "https://mega.nz/file/AnpXAIjS#vJXqNCWt-MPvUP_NJcBPOVqVdyT7GN9y3u4iREoKPqA",
           "localizedDescription": "Bản đầu tiên"
         },
         {
-          "version": "1.0.0",
+          "version": "1.0",
           "date": "2023-10-01T10:00:00-07:00",
           "size": 10000,
           "downloadURL": "https://thanvuongh5.com/apk/TMgame99_Genshin34.ipa",
