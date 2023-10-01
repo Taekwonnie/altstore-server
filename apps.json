@@ -9,44 +9,7 @@
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
-      "versions": [
-        {
-          "version": "1.7",
-          "date": "2023-09-18T12:00:00-05:00",
-          "localizedDescription": "NEW\n\n\"Active Apps\" Widget (iOS 17+)\n• View remaining days for ALL active apps from Home Screen\n• Refresh apps directly from home screen by tapping countdown timers\n\nIMPROVED\n\nShortcuts\n• Converted existing \"Refresh All Apps\" shortcut into App Shortcut\n• Available by default in \"App Shortcuts\" section of Shortcuts app\n• Displays accurate progress when refreshing apps via Shortcuts app\n\nWidgets\n• Updated existing home screen widget to support refreshing apps by tapping countdown (iOS 17+)\n• Fully compatible with macOS Sonoma\n\nFIXED\n• Fixed AltJIT on iOS 17*\n• Fixed updating apps with manually removed extensions (e.g. uYou+)\n• Fixed not refreshing AltStore last when refreshing via Shortcut\n• Fixed Error Log not displaying all detailed info for certain errors\n\n*Requires AltServer 1.7 (macOS)",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_7.ipa",
-          "size": 5809750,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.6.3",
-          "date": "2023-04-12T12:00:00-05:00",
-          "localizedDescription": "• Fixed error fetching Friend Zone patrons due to unexpected nil name\n• Fixed incorrect cell height for some News items",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_3.ipa",
-          "size": 5625134
-        },
-        {
-          "version": "1.6.2",
-          "date": "2023-03-22T12:00:00-05:00",
-          "localizedDescription": "⚠️ You must manually install this update by re-installing AltStore with AltServer. You do NOT need to delete AltStore first.\n\nThis update fixes the \"no provisioning profile with the requested identifier…\" error when sideloading or refreshing apps.",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_2.ipa",
-          "size": 5624498
-        },
-        {
-          "version": "1.6.1",
-          "date": "2023-02-20T12:00:00-06:00",
-          "localizedDescription": "• “Clear Cache” button removes non-essential data to free up disk space\n• Sideload more than 3 apps via MacDirtyCow exploit*†\n• Fixes crash when viewing Sources on iOS 12\n\n*Requires iOS 14.0 - 16.1.2 (excluding 15.7.2). iOS 16.2+ not supported.\n†Visit faq.altstore.io for detailed instructions.\n",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_1.ipa",
-          "size": 5626583
-        },
-        {
-          "version": "1.6",
-          "date": "2023-01-30T10:00:00-06:00",
-          "localizedDescription": "NEW\n\nLock Screen Widget (iOS 16+)\n• Counts down days until AltStore expires\n• Available in 2 different styles: \"icon\" and \"text\"\n\nError Log\n• View past errors in more detail\n• Tap an error to copy the error message or error code\n• Search for error code directly in AltStore FAQ\n• Access via new \"Techy Things\" section in settings\n\niOS Version Compatibility\n• Checks iOS compatibility for updates and installs \n• Asks you to install latest compatible version if not supported\n• View unsupported updates from My Apps tab\n\nRevamped Error Handling\n• Completely revamped error handling to make debugging issues as easy as possible\n• Revised error messages to be more descriptive and provide more suggestions\n• Includes more information with errors\n\nMisc.\n• Pull-to-refresh to check for updates\n• Supports new “versions” key in source JSON\n• Supports updating apps from app detail page\n\nFIXED\n• Fixed \"more\" button appearing by mistake on app detail pages\n• Fixed widgets potentially not updating after refreshing apps\n• Fixed incorrect app name and iOS version in \"Unsupported iOS version\" error message\n• Fixed refreshing tweaked apps with removed app extensions\n• Fixed incorrect error toast view color when sign-in fails",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6.ipa",
-          "size": 5614798
-        }
-      ],
+      "versions": [],
       "version": "1.6.3",
       "versionDate": "2023-04-12T12:00:00-05:00",
       "versionDescription": "• Fixed error fetching Friend Zone patrons due to unexpected nil name\n• Fixed incorrect cell height for some News items",
