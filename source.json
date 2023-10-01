@@ -1,5 +1,5 @@
 {
-  "name": "Ti qui source",
+  "name": "Tiqui source",
   "identifier": "com.example.tiquismi",
   "subtitle": "All my apps in one place.",
   "description": "Welcome to my source! Here you'll find all of my apps.",
@@ -58,7 +58,7 @@
       "tintColor": "#3660A2",
       "imageURL": "https://example.com/app_update_image.png",
       "notify": false,
-      "appID": "com.example.myapp"
+      "appID": "com.miHoYo.GenshinImpact"
     }
   ]
 }
