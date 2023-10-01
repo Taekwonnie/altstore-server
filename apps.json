@@ -1,6 +1,6 @@
 {
   "name": "AltStore",
-  "identifier": "com.rileytestut.AltStore",
+  "identifier": "com.tiqui.AltStore",
   "subtitle": "A home for apps that push the boundaries of iOS.",
   "description": "This is the default source for AltStore. You can add additional sources to manage what apps appear in AltStore.\n\nFor more info, check out our FAQ: https://faq.altstore.io/patreon/beta-access/sources",
   "website": "https://altstore.io",
