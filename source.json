@@ -51,10 +51,10 @@
   ],
   "news": [
     {
-      "title": "App Update Available",
+      "title": "Genshin Impact 3.4",
       "identifier": "app_update",
-      "caption": "An update is available for My Example App.",
-      "date": "2023-03-10T10:00:00-07:00",
+      "caption": "An update is available for Genshin Impact",
+      "date": "2023-10-01T10:00:00-07:00",
       "tintColor": "#3660A2",
       "imageURL": "https://example.com/app_update_image.png",
       "notify": false,
