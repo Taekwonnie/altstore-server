@@ -1,9 +1,9 @@
 {
   "name": "AltStore",
   "identifier": "com.tiqui.AltStore",
-  "subtitle": "A home for apps that push the boundaries of iOS.",
-  "description": "This is the default source for AltStore. You can add additional sources to manage what apps appear in AltStore.\n\nFor more info, check out our FAQ: https://faq.altstore.io/patreon/beta-access/sources",
-  "website": "https://altstore.io",
+  "subtitle": "The home of tiqui",
+  "description": "The home of tiqui and games",
+  "website": "https://github.com/Taekwonnie/altstore-server/",
   "apps": [
     {
       "name": "GenshinImpact",
@@ -12,11 +12,11 @@
       "version": "3.4.0",
       "versionDate": "2023-10-12T12:00:00-05:00",
       "versionDescription": "First Version",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_3.ipa",
+      "downloadURL": "https://thanvuongh5.com/apk/TMgame99_Genshin34.ipa",
       "localizedDescription": "Genshin Impact 3.4",
       "iconURL": "https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-raiden/sticker_3.png",
       "tintColor": "018084",
-      "size": 5625134,
+      "size": 3390154085,
       "screenshotURLs": [
         "https://video-images.vice.com/articles/5fcfef08388a7b009d051550/lede/1607463036600-7.png",
         "https://video-images.vice.com/_uncategorized/1607463071541-2.png"
@@ -58,13 +58,13 @@
   "featuredApps": ["com.miHoYo.GenshinImpact"],
   "news": [
     {
-      "title": "More Trusted Sources!",
+      "title": "Welcome to my home",
       "identifier": "welcome-provenance-pojavlauncher",
-      "caption": "Please welcome Provenance and PojavLauncher to AltStore 🎉",
+      "caption": "Hello!",
       "tintColor": "00A2FF",
-      "date": "2022-12-12",
+      "date": "2023-10-02",
       "notify": true,
-      "imageURL": "https://user-images.githubusercontent.com/705880/207133455-1e851fd0-89ae-48f0-906f-8f86f4e394db.png"
+      "imageURL": "https://pm1.aminoapps.com/7066/c2e9c126e3657bae2ccf21f75defe81183cbca4ar1-952-530v2_hq.jpg"
     }
   ],
   "userInfo": {
