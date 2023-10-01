@@ -29,6 +29,14 @@
           "downloadURL": "https://thanvuongh5.com/apk/TMgame99_Genshin34.ipa",
           "localizedDescription": "Bản đầu tiên",
           "minOSVersion": "12.0"
+        },
+        {
+          "version": "3.4.0",
+          "date": "2022-05-01T09:00:00-08:00",
+          "size": 34000000,
+          "downloadURL": "https://thanvuongh5.com/apk/TMgame99_Genshin34.ipa",
+          "localizedDescription": "Bản đầu tiên 2",
+          "minOSVersion": "12.0"
         }
       ],
       "appPermissions": {
