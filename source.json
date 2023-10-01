@@ -11,7 +11,7 @@
   "apps": [
     {
       "name": "Genshin Impact 3.4",
-      "bundleIdentifier": "com.example.myapp",
+      "bundleIdentifier": "com.miHoYo.GenshinImpact",
       "developerName": "Tiquismi",
       "subtitle": "Genshin Impact 3.4",
       "localizedDescription": "Server lậu genshin Impact",
