@@ -7,7 +7,7 @@
   "headerURL": "https://github.com/Taekwonnie/altstore-server/blob/main/gift1.png",
   "website": "https://github.com/Taekwonnie/altstore-server/",
   "tintColor": "#4185A9",
-  "featuredApps": ["com.example.genshinimpact3.4"],
+  "featuredApps": ["com.miHoYo.GenshinImpact"],
   "apps": [
     {
       "name": "Genshin Impact 3.4",
